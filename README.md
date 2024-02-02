@@ -6,5 +6,5 @@ pip install json
 ```
 whitelist template, make the bot only join server you authorize!
 ```
-visit https://discord.gg/fearbot
+> visit https://discord.gg/fearbot for support
 
